@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-	s.name		= 'NetApp2.rb'
+	s.name		= 'NetApp.rb'
 	s.version	= '0.1.3'
 	s.date		= '2014-12-01'
 	s.summary	= 'NetApp.rb'
